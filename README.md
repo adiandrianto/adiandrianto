@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @adiandrianto
-Computer Vision Engineer
+- 👋 Hi, I’m Adi
+MD, Computer Vision Engineer, Game Developer
 
 Linkedin : https://www.linkedin.com/in/adi-andrianto-922733b5/
 
